@@ -275,15 +275,4 @@ class _CadastroServicoPageState extends State<CadastroServicoPage> {
           : null,
     );
   }
-  
 }
-
-
-
-
-
-
-
-
-
-
